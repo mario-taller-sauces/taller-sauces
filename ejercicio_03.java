@@ -22,6 +22,7 @@ public class ejercicio_03 {
             System.out.println("Calificacion fuera de rango. Debe estar entre 0 y 10.");
         }
         // Cerrar el objeto Scanner
+		// Comentario de prueba
         scanner.close();
     }
 }
